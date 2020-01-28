@@ -2,7 +2,7 @@ baseurl = "//stormovsky.github.io/PORES/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "PORES"
 disqusShortname = "shortcode-here"
 paginate = 5
 
@@ -14,7 +14,7 @@ paginate = 5
 	showglobe = true
 
 	favicon = "favicon.ico"
-	
+
 	analytics = "code-here"
 
 	#email = "alexurquhart@gmail.com"
@@ -22,7 +22,7 @@ paginate = 5
         header="News about project"
 
 	profilepic = "/img/UKF-logo.png"
-	
+
 	title = "Plymouth Marine Laboratory Research Visit"
 	subtitle = "Connectivity Program, Gaining Experience Grant Unity through Knowledge Fund - UKF  http://www.ukf.hr/"
 
@@ -44,11 +44,11 @@ paginate = 5
 	[[params.navlinks]]
 	name = "About project PORES"
 	url = "about/"
-	
+
 	[[params.navlinks]]
 	name = "News"
 	url = "post/"
-	
+
 	#[[params.navlinks]]
 	#name = "TRACMASS"
 	#url = "TRACMASS/"
